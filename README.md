@@ -10,7 +10,6 @@ OpenSCAD scripts to generate snap-together articulated ball and socket dinguses 
 
 ## Usage
 
-![Screenshot](img/screenshot.png)  
 - **Dingus.scad**
 	- Generates articulating ball and socket dingus segments
 - **FlangeBase.scad**
